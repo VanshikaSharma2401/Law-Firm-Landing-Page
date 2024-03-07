@@ -1,6 +1,5 @@
 import React from 'react';
 import { Accordion, AccordionDetails, AccordionSummary, Typography } from '@mui/material';
-import Expand from "../../public/Expand.svg"
 
 const MyAccordion = ({accordianTitle}) => {
   return (
